@@ -258,9 +258,9 @@ class InstallationModelDatabase extends JModelBase
 
 				// All tests for this session passed set it to the session
 				JFactory::getSession()->set('remoteDbFileTestsPassed', true);
-			}
+			}*/
 		}
-		*/
+		
 		// Get a database object.
 		try
 		{
